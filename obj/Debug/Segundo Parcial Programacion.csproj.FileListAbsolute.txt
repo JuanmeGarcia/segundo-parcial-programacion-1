@@ -1,0 +1,40 @@
+C:\Users\Lautaro\OneDrive\Escritorio\Trabajos Visual Studio\P2 - Lautaro Mardyks\Segundo Parcial Programacion\bin\Debug\Segundo Parcial Programacion.exe.config
+C:\Users\Lautaro\OneDrive\Escritorio\Trabajos Visual Studio\P2 - Lautaro Mardyks\Segundo Parcial Programacion\bin\Debug\Segundo Parcial Programacion.exe
+C:\Users\Lautaro\OneDrive\Escritorio\Trabajos Visual Studio\P2 - Lautaro Mardyks\Segundo Parcial Programacion\bin\Debug\Segundo Parcial Programacion.pdb
+C:\Users\Lautaro\OneDrive\Escritorio\Trabajos Visual Studio\P2 - Lautaro Mardyks\Segundo Parcial Programacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Lautaro\OneDrive\Escritorio\Trabajos Visual Studio\P2 - Lautaro Mardyks\Segundo Parcial Programacion\obj\Debug\Segundo Parcial Programacion.csproj.AssemblyReference.cache
+C:\Users\Lautaro\OneDrive\Escritorio\Trabajos Visual Studio\P2 - Lautaro Mardyks\Segundo Parcial Programacion\obj\Debug\Segundo_Parcial_Programacion.Properties.Resources.resources
+C:\Users\Lautaro\OneDrive\Escritorio\Trabajos Visual Studio\P2 - Lautaro Mardyks\Segundo Parcial Programacion\obj\Debug\Segundo Parcial Programacion.csproj.GenerateResource.cache
+C:\Users\Lautaro\OneDrive\Escritorio\Trabajos Visual Studio\P2 - Lautaro Mardyks\Segundo Parcial Programacion\obj\Debug\Segundo Parcial Programacion.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\OneDrive\Escritorio\Trabajos Visual Studio\P2 - Lautaro Mardyks\Segundo Parcial Programacion\obj\Debug\Segundo Parcial Programacion.csproj.CopyComplete
+C:\Users\Lautaro\OneDrive\Escritorio\Trabajos Visual Studio\P2 - Lautaro Mardyks\Segundo Parcial Programacion\obj\Debug\Segundo Parcial Programacion.exe
+C:\Users\Lautaro\OneDrive\Escritorio\Trabajos Visual Studio\P2 - Lautaro Mardyks\Segundo Parcial Programacion\obj\Debug\Segundo Parcial Programacion.pdb
+C:\Users\Lautaro\OneDrive\Escritorio\Trabajos Visual Studio\P2 - Lautaro Mardyks\Segundo Parcial Programacion\obj\Debug\Segundo_Parcial_Programacion.SalasFrm.resources
+C:\Users\Lautaro\OneDrive\Escritorio\Trabajos Visual Studio\P2 - Lautaro Mardyks\Segundo Parcial Programacion\obj\Debug\Segundo_Parcial_Programacion.Inscripcion.resources
+C:\Users\Lautaro\OneDrive\Escritorio\Trabajos Visual Studio\P2 - Lautaro Mardyks\Segundo Parcial Programacion\obj\Debug\Segundo_Parcial_Programacion.Login.resources
+C:\Users\Lautaro\OneDrive\Escritorio\Trabajos Visual Studio\P2 - Lautaro Mardyks\Segundo Parcial Programacion\obj\Debug\Segundo_Parcial_Programacion.Starting.resources
+C:\Users\Lautaro\OneDrive\Escritorio\Trabajos Visual Studio\P2 - Lautaro Mardyks\Segundo Parcial Programacion\obj\Debug\Segundo_Parcial_Programacion.MainForm.resources
+C:\Users\Lautaro\OneDrive\Escritorio\Trabajos Visual Studio\P2 - Lautaro Mardyks\Segundo Parcial Programacion\obj\Debug\Segundo_Parcial_Programacion.Alumnos.resources
+C:\Users\Lautaro\OneDrive\Escritorio\Trabajos Visual Studio\P2 - Lautaro Mardyks\Segundo Parcial Programacion\obj\Debug\Segundo_Parcial_Programacion.Maestras.resources
+C:\Users\Lautaro\OneDrive\Escritorio\Trabajos Visual Studio\P2 - Lautaro Mardyks\Segundo Parcial Programacion\obj\Debug\Segundo_Parcial_Programacion.Cuotas.resources
+C:\Users\Lautaro\OneDrive\Escritorio\Trabajos Visual Studio\P2 - Lautaro Mardyks\Segundo Parcial Programacion\obj\Debug\Segundo_Parcial_Programacion.AgregarMaestra.resources
+C:\Users\Juanme\Desktop\Segundo Parcial Programacion\bin\Debug\Segundo Parcial Programacion.exe.config
+C:\Users\Juanme\Desktop\Segundo Parcial Programacion\bin\Debug\Segundo Parcial Programacion.exe
+C:\Users\Juanme\Desktop\Segundo Parcial Programacion\bin\Debug\Segundo Parcial Programacion.pdb
+C:\Users\Juanme\Desktop\Segundo Parcial Programacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Juanme\Desktop\Segundo Parcial Programacion\obj\Debug\Segundo Parcial Programacion.csproj.AssemblyReference.cache
+C:\Users\Juanme\Desktop\Segundo Parcial Programacion\obj\Debug\Segundo_Parcial_Programacion.AgregarMaestra.resources
+C:\Users\Juanme\Desktop\Segundo Parcial Programacion\obj\Debug\Segundo_Parcial_Programacion.Alumnos.resources
+C:\Users\Juanme\Desktop\Segundo Parcial Programacion\obj\Debug\Segundo_Parcial_Programacion.Cuotas.resources
+C:\Users\Juanme\Desktop\Segundo Parcial Programacion\obj\Debug\Segundo_Parcial_Programacion.Inscripcion.resources
+C:\Users\Juanme\Desktop\Segundo Parcial Programacion\obj\Debug\Segundo_Parcial_Programacion.Login.resources
+C:\Users\Juanme\Desktop\Segundo Parcial Programacion\obj\Debug\Segundo_Parcial_Programacion.Maestras.resources
+C:\Users\Juanme\Desktop\Segundo Parcial Programacion\obj\Debug\Segundo_Parcial_Programacion.SalasFrm.resources
+C:\Users\Juanme\Desktop\Segundo Parcial Programacion\obj\Debug\Segundo_Parcial_Programacion.MainForm.resources
+C:\Users\Juanme\Desktop\Segundo Parcial Programacion\obj\Debug\Segundo_Parcial_Programacion.Starting.resources
+C:\Users\Juanme\Desktop\Segundo Parcial Programacion\obj\Debug\Segundo_Parcial_Programacion.Properties.Resources.resources
+C:\Users\Juanme\Desktop\Segundo Parcial Programacion\obj\Debug\Segundo Parcial Programacion.csproj.GenerateResource.cache
+C:\Users\Juanme\Desktop\Segundo Parcial Programacion\obj\Debug\Segundo Parcial Programacion.csproj.CoreCompileInputs.cache
+C:\Users\Juanme\Desktop\Segundo Parcial Programacion\obj\Debug\Segundo Parcial Programacion.csproj.CopyComplete
+C:\Users\Juanme\Desktop\Segundo Parcial Programacion\obj\Debug\Segundo Parcial Programacion.exe
+C:\Users\Juanme\Desktop\Segundo Parcial Programacion\obj\Debug\Segundo Parcial Programacion.pdb
